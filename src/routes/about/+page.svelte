@@ -228,7 +228,7 @@
                 If that was the case, then you have to continue the run.)
               </li>
               <li>
-                You are not allowed to use the in-game console, with two
+                You are not allowed to use the in-game console, with three
                 exceptions:
 
                 <ul>
@@ -257,6 +257,16 @@
                     their fault. The moderators reserve the right to arbitrarily
                     determine which specific soft-lock situations warrant
                     console usage.
+                  </li>
+                  <li>
+                    Sometimes, during a Mother run, no keys are available in
+                    basement 1 and basement 2. In this case, you are allowed to
+                    open the console to get one using the command of "spawn
+                    5.30.1" in order to open the door to Downpour 2. However,
+                    using the console is not allowed if a key was used
+                    previously or was intentionally not picked up (such as a key
+                    found in the shop but not purchased to save money, or
+                    refusing to trade health for a key).
                   </li>
                 </ul>
               </li>
